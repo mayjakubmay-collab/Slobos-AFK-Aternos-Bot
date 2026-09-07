@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xByAlvaroSSJ_MC.aternos.me",
-    "port": 34249,
+    "ip": "facesmp317.mcsh.io",
+    "port": 10089,
     "version": "1.21.1",
     "try-creative": false
   },
